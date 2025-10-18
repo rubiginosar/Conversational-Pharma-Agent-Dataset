@@ -1,4 +1,5 @@
 #  conversational-pharma-agent-data
+[![DOI](https://zenodo.org/badge/1078870294.svg)](https://doi.org/10.5281/zenodo.17386754)
 
 **Conversational Pharmaceutical Assistant Dataset**  
 This repository supports a Master’s thesis in Big Data Analytics (USTHB) focused on building a **Conversational AI Agent** for automating pharmaceutical operations using **LLMs, RAG, and LangChain**.
