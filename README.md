@@ -1,19 +1,8 @@
 #  conversational-pharma-agent-data
 [![DOI](https://zenodo.org/badge/1078870294.svg)](https://doi.org/10.5281/zenodo.17386754)
 
-**Conversational Pharmaceutical Assistant Dataset**  
-This repository supports a Master’s thesis in Big Data Analytics (USTHB) focused on building a **Conversational AI Agent** for automating pharmaceutical operations using **LLMs, RAG, and LangChain**.
+The repository "Conversational-Pharma-Agent-Dataset" contains all the datasets and supporting materials used for performance evaluation of the intent classification strategies tested in the proposed conversational agent framework. It provides access to annotated pharmaceutical dialogues, intent labels, and related resources.
 
----
-
-##  Related Publication
-
-**Automating Pharmaceutical Operations with LLM-RAG Agents: A Comparative Evaluation of Intent Classification Strategies**  
-*Submitted to the Journal of Experimental & Theoretical Artificial Intelligence, Taylor & Francis, 2025.*
-
-This repository includes all datasets and materials used in the evaluation of various intent classification strategies for pharmaceutical chatbot agents.
-
----
 
 ##  Repository Structure
 
